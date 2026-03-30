@@ -7,7 +7,7 @@ This project classifies iris flowers using machine learning.
 Logistic Regression
 
 ## Result
-Accuracy: 100%
+Accuracy: ~90%
 
 ## Libraries Used
 pandas, sklearn
